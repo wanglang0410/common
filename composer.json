@@ -1,11 +1,11 @@
 {
-    "name": "wl/common",
+    "name": "spindrift/common",
     "description": "this is common tool package",
     "type": "library",
     "license": "Apache-2.0",
     "authors": [
         {
-            "name": "wanglang",
+            "name": "WangLang",
             "email": "347570062@qq.com"
         }
     ],
