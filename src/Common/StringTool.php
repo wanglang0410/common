@@ -2,7 +2,7 @@
 
 namespace Common;
 
-class String
+class StringTool
 {
     public static function printOut()
     {
