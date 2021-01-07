@@ -1,0 +1,20 @@
+{
+    "name": "wl/common",
+    "description": "this is common tool package",
+    "type": "library",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "wanglang",
+            "email": "347570062@qq.com"
+        }
+    ],
+    "require": {
+	    "php":">=5.6"
+	},
+    "autoload":{
+        "psr-4": {
+            "Common\\": "src/Common"
+        }
+    }
+}
